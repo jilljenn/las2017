@@ -64,7 +64,7 @@ Computational Approaches to Human Learning (CAHL) Research is [on GitHub](https:
 - What if it hurts? Because you're not optimizing anything.
 - Maybe yes.
 
-## Learning to program
+## Learning to program with localization
 
 Are learning outcomes associated with the presence or absence of localization in educational software?
 
@@ -73,6 +73,8 @@ Did users of Scratch learned programming better if the blocks were in their lang
 TL;DR: No.
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Source code has been translated in <a href="https://twitter.com/scratch">@scratch</a> even if the original project has been built in English. <a href="https://twitter.com/hashtag/crowdsourced?src=hash">#crowdsourced</a> process <a href="https://twitter.com/hashtag/las17ed?src=hash">#las17ed</a> <a href="https://t.co/9pjF6klNZi">pic.twitter.com/9pjF6klNZi</a></p>&mdash; Ella Hamonic (@Ella_Hmc) <a href="https://twitter.com/Ella_Hmc/status/855109380035022851">20 avril 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Statistics
 
 - 20.8M projects shared
 - 17M users
@@ -88,3 +90,23 @@ They discovered: for 80% of the users, language does not change.
 Measure of learning: block repertoire (~ vocabulary).
 
 Main advantage: localization may save users that might not learn code at all.
+
+## Teaching Students to Recognize and Implement Good Coding Style
+
+They built AutoStyle, a tutor that automatically generates hints and feedback regarding the style of Python code.
+
+Goal: Optimize readability of the reviewers.
+
+Goal of the research: see if multiple-choice questions / hints can help acquire good style.
+
+- Use of built-in functions
+- Avoid unnecessary control structures
+
+Metrics: ABC Score (Assignment, Branch, Conditional)
+
+- We want to avoid that students code in FORTRAN. At least they should learn some idioms. The question is: Is that medium skill learnable?
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">How to teach writing code at scale? Commenting, coding styles... how to assess those skills? <a href="https://twitter.com/hashtag/las17ed?src=hash">#las17ed</a> <a href="https://t.co/YIflBhtzBN">pic.twitter.com/YIflBhtzBN</a></p>&mdash; Ella Hamonic (@Ella_Hmc) <a href="https://twitter.com/Ella_Hmc/status/855115095281725440">20 avril 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Detecting Diligence with Online Behaviors on Intelligent Tutoring Systems
+
