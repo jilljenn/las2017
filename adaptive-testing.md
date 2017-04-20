@@ -1,5 +1,17 @@
 # Adaptive testing models
 
+[Go back to main page](/las2017)
+
+Name | Dimensions | Parameters
+--- | --- | ---
+IRT | K = 1 | Auto
+MIRT | K \leq 5 | Auto
+SPARFA | K \leq 10 | Auto
+--- | --- | ---
+DINA | K \leq 20 | Manual
+KST | K \leq 50 | Manual
+Bandits | K \leq 20 | Manual
+
 ## Latent Trait Models
 
 Summative models.
@@ -41,8 +53,8 @@ Formative models.
 ### DINA
 
 $$ \Pr(\textsf{correct}_{ij}) \triangleq \left\{\begin{array}{cl}
-1 - s_j & \textnormal{if } \textsf{student}_i \textnormal{ masters every requirement of } \textsf{question}_j\\
-g_j & \textnormal{otherwise.}
+1 - s_j & \text{if } \textsf{student}_i \text{ masters every requirement of } \textsf{question}_j\\
+g_j & \text{otherwise.}
 \end{array}\right. $$
 
 ### Attribute Hierarchy Model & Knowledge Space Theory
@@ -57,4 +69,12 @@ $$ Pr(\textsf{correct}_{ij}) = \Phi\left(\sum_{k = 1}^K \theta_{ik} q_{jk} d_{jk
 - $d_{jk}$ is the discrimination parameter of question $j$ over KC $k$;
 - $\delta_j$ is the easiness (bias) of question $j$.
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
