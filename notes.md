@@ -124,3 +124,17 @@ TL;DR: Diligence is correlated with success.
 
 - Isn't this an old-fashioned idea?
 - Is it a good idea that I'm being distracted or not?
+
+## Epistemic Cognition: A Promising and Necessary Construct for Enriching Large-scale Online Learning Analysis
+
+[PDF](http://delivery.acm.org/10.1145/3060000/3051462/p61-johanes.pdf?ip=192.54.222.4&id=3051462&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=753159252&CFTOKEN=13181410&__acm__=1492713702_69baaafdf41d29663245076db3e00afb)
+
+### Additional Explanatory Power for Learner States and Learning Tasks
+
+Add some epistemic constructs in the predicting, knowledge-tracing approaches may add explanatory power.
+
+### Additional Insight into for Learner and Environment Development
+
+Involve demographic data in order to improve inclusion and diversity in the tasks provided online.
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Epistemic cognition in online learning, emerging and necessary research topic! <a href="https://twitter.com/hashtag/las17ed?src=hash">#las17ed</a> <a href="https://t.co/lFSP5gydt7">pic.twitter.com/lFSP5gydt7</a></p>&mdash; carina211 (@carina211) <a href="https://twitter.com/carina211/status/855132900899135490">20 avril 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
