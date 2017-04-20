@@ -81,6 +81,10 @@ $$ Pr(\textsf{correct}_{ij}) = \Phi\left(\sum_{k = 1}^K \theta_{ik} q_{jk} d_{jk
 - $d_{jk}$ is the discrimination parameter of question $j$ over KC $k$;
 - $\delta_j$ is the easiness (bias) of question $j$.
 
+# Benchmarks
+
+[See here](https://github.com/jilljenn/qna/) for a comparison of those models.
+
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
