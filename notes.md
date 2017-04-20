@@ -108,5 +108,19 @@ Metrics: ABC Score (Assignment, Branch, Conditional)
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">How to teach writing code at scale? Commenting, coding styles... how to assess those skills? <a href="https://twitter.com/hashtag/las17ed?src=hash">#las17ed</a> <a href="https://t.co/YIflBhtzBN">pic.twitter.com/YIflBhtzBN</a></p>&mdash; Ella Hamonic (@Ella_Hmc) <a href="https://twitter.com/Ella_Hmc/status/855115095281725440">20 avril 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">An interesting study of AutoStyle <a href="https://twitter.com/hashtag/Tutor?src=hash">#Tutor</a> with auto generated coding style hints by Eliane Wiese at <a href="https://twitter.com/hashtag/las17ed?src=hash">#las17ed</a> <a href="https://t.co/UIDt3t7d13">pic.twitter.com/UIDt3t7d13</a></p>&mdash; Peter Brusilovsky (@peterpaws) <a href="https://twitter.com/peterpaws/status/855117340396199936">20 avril 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Detecting Diligence with Online Behaviors on Intelligent Tutoring Systems
 
+> Diligence: Working on academic tasks that are beneficial in the long-run instead of immediate incentives
+
+Academic Diligence Task (ADT) (Galla et al., 2015)
+
+- Study where students can either lay off or work. Surprisingly, it has predictive power on their standardized test scores and whether they will pursue 4-year college.
+
+How to adapt it to adaptive online learning?
+
+TL;DR: Diligence is correlated with success.
+
+- Isn't this an old-fashioned idea?
+- Is it a good idea that I'm being distracted or not?
