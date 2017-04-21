@@ -46,7 +46,7 @@ Students can receive patches to their solution labelled with hints.
 
 (Not tested yet on large-scale classes?)
 
-### Preventing Keystroke Based Identification in Open Data Sets
+## Preventing Keystroke Based Identification in Open Data Sets
 
 University of Helsinki.
 
@@ -58,7 +58,7 @@ Surprise: short time window anonymizes; average time window does NOT anonymize; 
 
 Hypothesis: the peak distribution over delay between keystrokes may explain this behavior. A middle threshold of time window kills the blur.
 
-### Do performance trends suggest wide-spread collaborative cheating on asynchronous exams?
+## Do performance trends suggest wide-spread collaborative cheating on asynchronous exams?
 
 University of Illinois have a Computer-Based Testing Facility where students can spend exams asynchronously (over 4 days).
 
@@ -66,10 +66,21 @@ Problems are randomly parametrized in the exercises, but it might not be enough 
 
 Collaborative cheating may still be possible.
 
-#### Dataset
+### Dataset
 
 - 93 exams
 - 29492 exam records
 
 - Most of students choose the last day for exam
 - But their performance is lower in average
+
+## Creative learning
+
+- Importance to provide fab labs and so on for teaching CS & robotics at scale.
+- Importance to use technology to reach people that have less opportunities to learn programming
+- Suggesting people to go to a library near them
+
+### Challenges
+
+- Being open to criticism
+- Who is personalizing? An AI?
