@@ -6,7 +6,7 @@ To add an entry, please tweet [@jjvie](https://twitter.com/jjvie) or [do a pull 
 
 - [CodaLab](https://worksheets.codalab.org) made by [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University) and [Microsoft Research](https://www.microsoft.com/en-us/research/project/codalab/)
 
-From Tum, a Stanford student:
+From [Tum](http://stanford.edu/~sorathan/), a Stanford student:
 
 > To use GPUs or perform large amounts of computation, you can [run your own worker](https://github.com/codalab/codalab-worksheets/wiki/Execution#running-your-own-worker) or even [set up your own CodaLab server](https://github.com/codalab/codalab-worksheets/wiki/Server-Setup).
 
