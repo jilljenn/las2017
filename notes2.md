@@ -109,6 +109,8 @@ They managed to cut in half the gender gap, using solely a low-cost psychologica
 
 ## Learning about Learning at Scale: Methodological Challenges and Recommendations
 
+[PDF](http://delivery.acm.org/10.1145/3060000/3051461/p131-van-der-sluis.pdf?ip=192.54.222.4&id=3051461&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=753159252&CFTOKEN=13181410&__acm__=1492800889_19ea841db89d8252ca18e3be9a5be009)
+
 - Of course, a machine learning will be more predictive if you add as much features as possible
 - Selection bias
 - Homogeneity bias
