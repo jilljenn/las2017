@@ -25,4 +25,4 @@ So you can make data challenges yourself!
 - [Camisole](https://camisole.prologin.org), a Python package that abstracts the complex stuff into an API simple to use, made by [Prologin](https://prologin.org) (non-profit student-driven organization that promotes CS through a programming contest) and based on [isolate](https://github.com/ioi/isolate) (used by IOI)
 - [Taskgrader](https://github.com/France-ioi/taskgrader), a Python package that abstracts the complex stuff into a wrapper simple to use, made by [France-ioi](http://www.france-ioi.org) (take that, war of standards)
 
-Those are Docker free, but may require Linux: ([isolate](https://github.com/ioi/isolate) can be seen as a light version of Docker, based on [chroot](https://en.wikipedia.org/wiki/Chroot).
+Those are Docker free, but require Linux: ([isolate](https://github.com/ioi/isolate) can be seen as a light version of Docker, based on [chroot](https://en.wikipedia.org/wiki/Chroot). (It will not work on a Mac OS X platform. You can use a VM though.)

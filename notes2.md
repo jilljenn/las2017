@@ -84,3 +84,32 @@ Collaborative cheating may still be possible.
 
 - Being open to criticism
 - Who is personalizing? An AI?
+
+## Towards equal opportunities in MOOCs: Reducing gender & social-class achievement gaps in China with a value relevance affirmation
+
+SIT matters in China and in language learning contexts.
+
+Goal: Trying to reduce achievement gaps in an English language learning MOOC in China, offered by Tsinghua University.
+
+- 5M registered on XuetangX, made on Open edX
+
+### Investigation
+
+- Gender identity threat
+- Social-class identity threat
+
+Lower-class men < High-class men < Lower-class women < High-class women
+
+- Men experience more gender identity threat
+- No difference in regional identity threat between upper-class
+
+They managed to cut in half the gender gap, using solely a low-cost psychological intervention (under a form).
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/las17ed?src=hash">#las17ed</a> Are gender and social classes impacting on learner completion<br>Lower-class men benefit from psychological interventions in courses. <a href="https://t.co/K05r7cTrJY">pic.twitter.com/K05r7cTrJY</a></p>&mdash; Ella Hamonic (@Ella_Hmc) <a href="https://twitter.com/Ella_Hmc/status/855486835484700674">21 avril 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Learning about Learning at Scale: Methodological Challenges and Recommendations
+
+- Of course, a machine learning will be more predictive if you add as much features as possible
+- Selection bias
+- Homogeneity bias
+- [Lindley's paradox](https://en.wikipedia.org/wiki/Lindley%27s_paradox): big data increases the probability to find a p-value < 0.01
