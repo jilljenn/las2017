@@ -1,6 +1,8 @@
-# Notes from Learning at Scale
+# Notes from Learning at Scale - Day 1
 
 [Go back to main page](/las2017)
+
+[Go to Day 2](/las2017/notes2)
 
 [See the proceedings on ACM](http://dl.acm.org/citation.cfm?id=3051457&preflayout=flat)
 
