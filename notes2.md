@@ -115,3 +115,5 @@ They managed to cut in half the gender gap, using solely a low-cost psychologica
 - Selection bias
 - Homogeneity bias
 - [Lindley's paradox](https://en.wikipedia.org/wiki/Lindley%27s_paradox): big data increases the probability to find a p-value < 0.01
+
+=> Importance of preregistered studies.

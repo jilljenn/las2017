@@ -11,4 +11,5 @@ Hi, I'm [Jill-Jênn](https://jilljenn.github.io). Here are some notes about Lear
 
 - [Reproducible Research](/las2017/reproducible-research)
 - [Adaptive Testing](/las2017/adaptive-testing)
+- [Knowledge Tracing](/las2017/knowledge-tracing)
 - [Automatic Test Generation](/las2017/adaptive-testing) in programming exercises
