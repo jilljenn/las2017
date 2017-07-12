@@ -17,6 +17,7 @@ From [Tum](http://stanford.edu/~sorathan/), a Stanford student:
 - [CodeOcean](https://github.com/openHPI/codeocean), the Ruby platform driven by the [Hasso Platner Institute](https://en.wikipedia.org/wiki/Hasso_Plattner_Institute), Germany
 - [University of Big Data](http://universityofbigdata.net/?lang=en), the Python platform driven by Kyoto University, Japan
 - Of course, Kaggle exists… but… <small>how to say………</small> <small><small>Google acquired it.</small></small>
+- [crowdAI](https://www.crowdai.org) from EPFL, used for NIPS
 
 ## Tools for remote execution of code
 

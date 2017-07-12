@@ -2,6 +2,7 @@
 
 [Go back to main page](/las2017)
 
+- [Deep Knowledge Tracing](https://github.com/chrispiech/DeepKnowledgeTracing) in Lua by Chris Piech @ Stanford University
 - [Deep Knowledge Tracing](https://github.com/lingochamp/tensorflow-dkt/tree/master/src) implementation in TensorFlow ([another one](https://github.com/siyuanzhao/2016-EDM) by Siyuan Zhao @ WPI)
 - [Bayesian Knowledge Tracing](https://github.com/IEDMS/standard-bkt) implementation in C++ by Mikhail Yudelson @ CMU
 - [IRT > DKT](https://github.com/Knewton/edm2016) by Knewton
